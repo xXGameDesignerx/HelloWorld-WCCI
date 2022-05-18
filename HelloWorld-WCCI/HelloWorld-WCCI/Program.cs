@@ -28,3 +28,22 @@ int studentCount = 8;
 // declaring a variable and assigning variable
 string input = Console.ReadLine();
 Console.WriteLine(input);
+
+// operators are ways we can manipulate values/variables
+// ex: addition (+) 5 + 5 = 10
+float num = 5 + 5;
+Console.WriteLine(num);
+Console.WriteLine(num == 10);
+num = 5 * 5;
+num = 5 / 5;
+num = 5 / 3f;
+Console.WriteLine(num);
+
+// visual variable type cues
+// quotes "" = -> string
+// d,D, 0.0 -> double
+//f,F -> float
+// m,M -> deciMal
+// true, false -> bollean
+//number -> int
+// single quotes '' -> char
