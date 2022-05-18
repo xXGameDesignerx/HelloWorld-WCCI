@@ -40,10 +40,10 @@ num = 5 / 3f;
 Console.WriteLine(num);
 
 // visual variable type cues
-// quotes "" = -> string
-// d,D, 0.0 -> double
-//f,F -> float
-// m,M -> deciMal
-// true, false -> bollean
-//number -> int
-// single quotes '' -> char
+// quotes "" = -> string        "Hello"
+// d,D, 0.0 -> double           3d 3.0 
+//f,F -> float                  3f 3.0f
+// m,M -> deciMal               3m 3.0m
+// true, false -> boolean       true false
+//number -> int                 3 2 1
+// single quotes '' -> char     'c' 's'
